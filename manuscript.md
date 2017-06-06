@@ -32,3 +32,29 @@ You can also embed plots, for example:
 ![](manuscript_files/figure-html/pressure-1.png)<!-- -->
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+## Including Table
+
+
+ temperature   pressure
+------------  ---------
+           0     0.0002
+          20     0.0012
+          40     0.0060
+          60     0.0300
+          80     0.0900
+         100     0.2700
+         120     0.7500
+         140     1.8500
+         160     4.2000
+         180     8.8000
+         200    17.3000
+         220    32.1000
+         240    57.0000
+         260    96.0000
+         280   157.0000
+         300   247.0000
+         320   376.0000
+         340   558.0000
+         360   806.0000
