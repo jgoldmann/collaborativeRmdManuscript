@@ -3,8 +3,7 @@ title: "manuscript"
 author: "Jakob"
 date: "June 6, 2017"
 output: 
-  html_document: 
-    keep_md: yes
+  github_document
 ---
 
 ```{r setup, include=FALSE}
