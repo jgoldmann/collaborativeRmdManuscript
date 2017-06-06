@@ -35,3 +35,7 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 ```{r table, echo=FALSE}
 ```
+
+## Inline Numbers
+
+Let's see what some inline numbers will look like: There are `r nrow(cars)` cars.

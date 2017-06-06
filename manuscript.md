@@ -58,3 +58,7 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
          320   376.0000
          340   558.0000
          360   806.0000
+
+## Inline Numbers
+
+Let's see what some inline numbers will look like: There are 50 cars.
