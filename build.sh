@@ -1,6 +1,6 @@
 #!/bin/bash
 
-AUTHORNAME="\"Jakbot via Travis-CI\""
+AUTHORNAME="Jakbot"
 
 AUTHOREMAIL="jakob.goldmann@mail.de"
 
