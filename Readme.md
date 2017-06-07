@@ -3,6 +3,8 @@ manuscript
 Jakob
 June 6, 2017
 
+*[Edit this document](https://github.com/jgoldmann/collaborativeRmdManuscript/edit/master/Readme.Rmd)*
+
 R Markdown
 ----------
 
@@ -27,9 +29,7 @@ Including Plots
 
 You can also embed plots, for example:
 
-![](manuscript_files/figure-markdown_github/pressure-1.png)
-
-
+![](Readme_files/figure-markdown_github/pressure-1.png)
 
 Including Table
 ---------------
