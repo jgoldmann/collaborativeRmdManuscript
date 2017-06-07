@@ -1,6 +1,7 @@
 manuscript
 ================
-Jakob
+
+[![Travis-CI Build Status](https://travis-ci.org/jgoldmann/collaborativeRmdManuscript.svg?branch=master)](https://travis-ci.org/jgoldmann/collaborativeRmdManuscript.svg?branch=master)
 
 *[Edit this document or send a commented pull request.](https://github.com/jgoldmann/collaborativeRmdManuscript/edit/master/Readme.Rmd)*
 
