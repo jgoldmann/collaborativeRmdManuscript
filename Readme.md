@@ -1,9 +1,8 @@
 manuscript
 ================
 Jakob
-June 6, 2017
 
-*[Edit this document](https://github.com/jgoldmann/collaborativeRmdManuscript/edit/master/Readme.Rmd)*
+*[Edit this document or send a commented pull request.](https://github.com/jgoldmann/collaborativeRmdManuscript/edit/master/Readme.Rmd)*
 
 R Markdown
 ----------

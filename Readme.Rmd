@@ -1,7 +1,6 @@
 ---
 title: "manuscript"
 author: "Jakob"
-date: "June 6, 2017"
 output: 
   github_document
 ---
